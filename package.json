@@ -7,7 +7,7 @@
     "lib/*.js"
   ],
   "license": "MIT",
-  "main": "lib/main.js",
+  "main": "lib/pug.js",
   "name": "highlightjs-pug",
   "scripts": {
     "ci": "./scripts/ci",

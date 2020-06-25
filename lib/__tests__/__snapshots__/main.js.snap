@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`current should highlight html classes 1`] = `"<span class=\\"hljs-class\\">.bg-red</span> Text"`;
+
+exports[`current should highlight html tags 1`] = `"<span class=\\"hljs-tag\\">p</span> Text"`;
+
+exports[`current should highlight id classes 1`] = `"<span class=\\"hljs-id\\">#uniqueId</span> Text"`;
+
+exports[`current tag with class 1`] = `"<span class=\\"hljs-tag\\">p</span><span class=\\"hljs-class\\">.bg-red</span> Text"`;
