@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "aberlaas": "1.25.0",
+    "aberlaas": "2.10.0",
     "highlightjs": "9.16.2"
   },
   "files": [
